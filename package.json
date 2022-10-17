@@ -2,16 +2,15 @@
   "name": "reactjs",
   "version": "1.0.0",
   "description": "",
-  "main": "getting_started.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "@emotion/react": "^11.10.4",
     "@emotion/styled": "^11.10.4",
-    "@fontsource/roboto": "^4.5.8",
     "@mui/material": "^5.10.9",
     "next": "^12.3.1",
     "react": "^18.2.0",
